@@ -1,0 +1,10 @@
+subscription_id = "00000000-0000-0000-0000-000000000000"
+location        = "germanywestcentral"
+project_name    = "clouddemo"
+
+tags = {
+  project     = "cloud-portfolio"
+  environment = "poc"
+  managedBy   = "terraform"
+  owner       = "Ivan Paunovic"
+}
